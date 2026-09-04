@@ -4,7 +4,7 @@ An AI-powered financial crime detection and investigation platform designed to i
 
 ## Project Status
 
-🚧 In Development
+ In Development
 
 ## Planned Features
 
@@ -35,4 +35,3 @@ An AI-powered financial crime detection and investigation platform designed to i
 
 This project uses a publicly available credit card fraud detection dataset for development and experimentation.
 
-The raw dataset is not included in this repository.
